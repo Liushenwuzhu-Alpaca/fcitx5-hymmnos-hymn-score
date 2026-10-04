@@ -6,12 +6,8 @@ A [fcitx5](https://fcitx-im.org) skin themed on the **Hymmnos language** from
 Ar tonelico. Sister project:
 [fcitx5-hymmnos-datastream](https://github.com/Liushenwuzhu-Alpaca/fcitx5-hymmnos-datastream).
 
-**Hymn Score** recreates the EXEC_-style song interface: Hymmnos glyph notes flow
-along a five-line staff, the **Power vowel `A`** badge sits at the upper left, the
-highlighted candidate is a sixth note with a **Love vowel `E`** head, and the top
-right corner bears the first complete Hymmnos sentence in history:
-
-> **Was yea ra chs hymmnos mea** - "In supreme happiness, I shall become a song."
+**Hymn Score** Hymmnos glyph notes flow along a five-line staff, the **Power vowel `A`** badge sits at the upper left, the
+highlighted candidate is a sixth note with a **Love vowel `E`** head
 
 ## Themes
 

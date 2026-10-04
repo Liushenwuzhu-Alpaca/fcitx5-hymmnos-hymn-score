@@ -1,13 +1,11 @@
 # fcitx5-hymmnos-hymn-score
 
+[English](README.en.md)
+
 以《魔塔大陆》(Ar tonelico) **Hymmnos 语**为主题的 fcitx5 输入法皮肤,姊妹篇:
 [fcitx5-hymmnos-datastream](https://github.com/Liushenwuzhu-Alpaca/fcitx5-hymmnos-datastream)。
 
-**诗谱 (Hymn Score)** -- 再现 EXEC_ 系诗歌的咏唱界面:五线谱上流淌着 Hymmnos 字形
-音符,左上角是**力音 `A`** 徽章,候选高亮是六分音符配**爱音 `E`** 符头,右上角
-标注着人类历史上第一句完整的 Hymmnos:
-
-> **Was yea ra chs hymmnos mea** -- 非常高兴、愿此刻永驻,我将化身为诗。
+**诗谱 (Hymn Score)** -- 五线谱上流淌着 Hymmnos 字形音符,左上角是**力音 `A`** 徽章,候选高亮是六分音符配**爱音 `E`** 符头
 
 ## 主题
 
